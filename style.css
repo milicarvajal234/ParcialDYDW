@@ -10,7 +10,7 @@ body {
     color: #222222;
 }
 
-/* MODO OSCURO */
+/* modo oscuro */
 body.oscuro {
     background-color: #1e1e1e;
     color: #f5f5f5;
@@ -119,15 +119,6 @@ body.oscuro .card-body {
     font-size: 0.95rem;
 }
 
-.label {
-    display: inline-block;
-    width: 90px;
-}
-
-.valor {
-    padding: 4px 8px;
-    border-radius: 4px;
-}
 
 /* mi foto */
 .foto-contenedor {
